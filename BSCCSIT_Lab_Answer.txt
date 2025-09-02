@@ -16,3 +16,4 @@ git branch -r
 
 # List all local + remote branches
 git branch -a
+This is commit 2: Added description of Earned Value Analysis.
