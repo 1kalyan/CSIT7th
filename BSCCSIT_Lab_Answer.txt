@@ -1,0 +1,18 @@
+# Clone the fork
+git clone https://github.com/1kalyan/CSIT7th.git
+cd CSIT7th
+
+# Create and switch to new branch
+git checkout -b BSCCSIT_Lab_Test
+
+# Push the branch to remote
+git push -u origin BSCCSIT_Lab_Test
+
+# List all local branches
+git branch
+
+# List all remote branches
+git branch -r
+
+# List all local + remote branches
+git branch -a
